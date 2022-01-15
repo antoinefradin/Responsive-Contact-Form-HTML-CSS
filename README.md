@@ -1,6 +1,6 @@
 # **Responsive HTML/CSS Contact Form**
 
-**Minimal responsive personal card design**<br />
+**Minimal responsive contact form design**<br />
 
 This project was made for my personal portfolio website.<br />  
 
@@ -11,12 +11,12 @@ To start the project, just open the file `index.html` in your preferred browser.
 
 ## 💻 Web Version 
 <p align="center">
-    <!--<img src="#" alt="web"/>-->
+    <img src="https://github.com/antoinefradin/Reponsive-Contact-Form-HTML-CSS/blob/main/img/Web_version.PNG" alt="web"/>
 </p>
 
 ## 📱 Mobile Version
 <p align="center">
-    
+    <img src="https://github.com/antoinefradin/Reponsive-Contact-Form-HTML-CSS/blob/main/img/Mobile_version.PNG" alt="web"/>
 </p>
 
 
